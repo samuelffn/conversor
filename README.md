@@ -1,5 +1,7 @@
 # conversor
 
+Projeto feito em Flutter que converte valor de moedas: Real, Dólar e Euro.
+
 A new Flutter application.
 
 ## Getting Started
